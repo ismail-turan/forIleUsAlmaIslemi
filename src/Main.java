@@ -17,7 +17,5 @@ public class Main {
         //şöyle de olabilirdi=============================
         double result2=Math.pow(taban,us);
         System.out.print("Mat.pow ile hesaplanan değer :"+(int)result2);
-
-
     }
 }
